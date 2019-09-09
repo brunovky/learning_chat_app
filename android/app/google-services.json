@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "12998405315",
+    "firebase_url": "https://learningchatapp-f684c.firebaseio.com",
+    "project_id": "learningchatapp-f684c",
+    "storage_bucket": "learningchatapp-f684c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12998405315:android:f887606461ca5f0b548676",
+        "android_client_info": {
+          "package_name": "br.com.casadocodigo.learning_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12998405315-t3u54d5cn758tpd7e411rj7vq4a9url1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8vNY6Pj_m_qT928k2q-t8Jj5u8NJ30wE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12998405315-t3u54d5cn758tpd7e411rj7vq4a9url1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
